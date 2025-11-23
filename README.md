@@ -40,13 +40,17 @@ The dataset is available **upon request** for research and academic use.
 If you use the dataset, code, or models, please cite our paper:
 
 ```
-@article{your_ieee_access_2025,
-  title={Drone Flight Dataset and Lightweight LSTM-Based Wind Estimation for Semi-Autonomous Quadcopter Control},
-  author={Ruppikha Sree Shankar and Vatsal Siotia and Rani Oomman Panicker},
-  journal={IEEE Access},
+@ARTICLE{11263872,
+  author={Shankar, Ruppikha Sree and Siotia, Vatsal and Panicker, Rani Oomman},
+  journal={IEEE Access}, 
+  title={Drone Flight Dataset and Lightweight LSTM-Based Wind Estimation for Semi-Autonomous Quadcopter Control}, 
   year={2025},
-  doi={10.1109/ACCESS.2025.3635660}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Wind speed;Quadrotors;Aerodynamics;Estimation;Sensors;Atmospheric modeling;Drones;Accuracy;Vehicle dynamics;Real-time systems;Wind Speed Estimation;Lightweight LSTM;Semi-Autonomous Drones;Simulated UAV Dataset;UAV Control},
+  doi={10.1109/ACCESS.2025.3635660}}
+
 ```
 
 ---
