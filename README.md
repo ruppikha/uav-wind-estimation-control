@@ -45,7 +45,7 @@ If you use the dataset, code, or models, please cite our paper:
   author={Ruppikha Sree Shankar and Vatsal Siotia and Rani Oomman Panicker},
   journal={IEEE Access},
   year={2025},
-  doi={XXXXXX}
+  doi={10.1109/ACCESS.2025.3635660}
 }
 ```
 
